@@ -1,0 +1,22 @@
+{
+  "name": "খিলমুরারী একতা সমবায় সমিতি",
+  "short_name": "খিলমুরারী সমিতি",
+  "description": "খিলমুরারী একতা সমবায় সমিতি - স্থাপিতঃ ১ জুলাই ২০১৫ খ্রি., খিলমুরারী, জোরারগঞ্জ, চট্টগ্রাম। সদস্য, চাঁদা, কিস্তি, লোন ও হিসাব ব্যবস্থাপনা অ্যাপ।",
+  "lang": "bn",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f4f7f2",
+  "theme_color": "#14532d",
+  "categories": ["finance", "business", "productivity"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cdefs%3E%3CradialGradient id='bg' cx='50%25' cy='45%25' r='55%25'%3E%3Cstop offset='0%25' stop-color='%23fcf8e3'/%3E%3Cstop offset='100%25' stop-color='%23efe4b5'/%3E%3C/radialGradient%3E%3ClinearGradient id='gold' x1='0%25' y1='0%25' x2='100%25' y2='100%25'%3E%3Cstop offset='0%25' stop-color='%23e5c158'/%3E%3Cstop offset='50%25' stop-color='%23b58928'/%3E%3Cstop offset='100%25' stop-color='%23f2d675'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='512' height='512' rx='112' fill='%2314532d'/%3E%3Ccircle cx='256' cy='256' r='224' fill='none' stroke='url(%23gold)' stroke-width='12'/%3E%3Ccircle cx='256' cy='256' r='208' fill='%2314532d'/%3E%3Ccircle cx='256' cy='256' r='154' fill='url(%23bg)' stroke='url(%23gold)' stroke-width='8'/%3E%3Cpath d='M256 122 C230 132 214 156 220 182 C196 178 176 196 184 220 C166 226 164 248 182 258 L330 258 C348 248 346 226 328 220 C336 196 316 178 292 182 C298 156 282 132 256 122 Z' fill='%2314532d'/%3E%3Crect x='246' y='215' width='20' height='52' fill='%2314532d'/%3E%3Cpolygon points='184,296 256,258 328,296' fill='%2314532d'/%3E%3Crect x='194' y='296' width='124' height='12' fill='%2314532d'/%3E%3Crect x='204' y='312' width='16' height='48' rx='2' fill='%2314532d'/%3E%3Crect x='232' y='312' width='16' height='48' rx='2' fill='%2314532d'/%3E%3Crect x='264' y='312' width='16' height='48' rx='2' fill='%2314532d'/%3E%3Crect x='292' y='312' width='16' height='48' rx='2' fill='%2314532d'/%3E%3Crect x='190' y='362' width='132' height='12' rx='3' fill='%2314532d'/%3E%3Cpath d='M188 386 Q256 406 324 386 L318 412 Q256 428 194 412 Z' fill='%2314532d' stroke='url(%23gold)' stroke-width='3'/%3E%3Ctext x='256' y='406' text-anchor='middle' fill='%23f7e29c' font-size='20' font-weight='bold' font-family='sans-serif'%3Eসমবায় - শক্তি%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
